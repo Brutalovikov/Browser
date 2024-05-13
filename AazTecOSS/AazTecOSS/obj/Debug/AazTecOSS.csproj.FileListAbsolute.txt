@@ -1,0 +1,9 @@
+c:\users\mikhaello\documents\visual studio 2013\Projects\AazTecOSS\AazTecOSS\bin\Debug\AazTecOSS.exe.config
+c:\users\mikhaello\documents\visual studio 2013\Projects\AazTecOSS\AazTecOSS\bin\Debug\AazTecOSS.exe
+c:\users\mikhaello\documents\visual studio 2013\Projects\AazTecOSS\AazTecOSS\bin\Debug\AazTecOSS.pdb
+c:\users\mikhaello\documents\visual studio 2013\Projects\AazTecOSS\AazTecOSS\obj\Debug\AazTecOSS.csprojResolveAssemblyReference.cache
+c:\users\mikhaello\documents\visual studio 2013\Projects\AazTecOSS\AazTecOSS\obj\Debug\AazTecOSS.Form1.resources
+c:\users\mikhaello\documents\visual studio 2013\Projects\AazTecOSS\AazTecOSS\obj\Debug\AazTecOSS.Properties.Resources.resources
+c:\users\mikhaello\documents\visual studio 2013\Projects\AazTecOSS\AazTecOSS\obj\Debug\AazTecOSS.csproj.GenerateResource.Cache
+c:\users\mikhaello\documents\visual studio 2013\Projects\AazTecOSS\AazTecOSS\obj\Debug\AazTecOSS.exe
+c:\users\mikhaello\documents\visual studio 2013\Projects\AazTecOSS\AazTecOSS\obj\Debug\AazTecOSS.pdb
